@@ -6,10 +6,12 @@ This repository contains my LeetCode solutions, showcasing my problem-solving sk
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0035-search-insert-position) |
 ## String
 |  |
