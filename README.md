@@ -8,6 +8,7 @@ This repository contains my LeetCode solutions, showcasing my problem-solving sk
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0037-sudoku-solver) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,4 +18,24 @@ This repository contains my LeetCode solutions, showcasing my problem-solving sk
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0038-count-and-say) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
