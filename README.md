@@ -18,6 +18,7 @@ This repository contains my LeetCode solutions, showcasing my problem-solving sk
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0038-count-and-say) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,16 @@ This repository contains my LeetCode solutions, showcasing my problem-solving sk
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0037-sudoku-solver) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rockybhairahul32-design/DSA_LEARNING_REPO/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
